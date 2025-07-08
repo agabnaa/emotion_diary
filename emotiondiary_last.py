@@ -224,7 +224,7 @@ songs_by_score = {
         ("Dancing King", "유재석×EXO", "https://youtu.be/4EiNsoTc9kk?si=6s4fDULWAP0bBFJ0"),
         ("SODA POP", "사자 보이즈(Saja Boys)", "https://youtu.be/eny0BqmSwmM?si=_5CElznr2jJreQQO"),
         ("로꾸꺼", "슈퍼주니어-T", "https://youtu.be/K2CNJiAq_cY?si=avsusY3j0l5GrDG8"),
-        ("날봐 귀순", "대성", "https: // youtu.be / OGSUsOoOhpI?si=sfGxGdjPmWcDJQGV"),
+        ("날봐 귀순", "대성", "https://youtu.be/OGSUsOoOhpI?si=sfGxGdjPmWcDJQGV"),
 
     ],
 }
